@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 1f24f1457acf943fc905b93768fc2b6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MoneyMagnetItem: {instanceID: 0}
+  - SeeEnemiesItem: {instanceID: 0}
+  - SeeMoneyItem: {instanceID: 0}
+  - BouncyBulletItem: {instanceID: 0}
+  - Bullet: {instanceID: 0}
+  - SingleShotItem: {instanceID: 0}
+  - SpreadShotItem: {instanceID: 0}
+  - UziItem: {instanceID: 0}
+  - BurstRifleItem: {instanceID: 0}
+  - CoinItem: {instanceID: 0}
+  - Player: {fileID: 6084827441887988373, guid: c051919d030edf78181b2cb8fd969695,
+      type: 3}
+  - Enemy: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

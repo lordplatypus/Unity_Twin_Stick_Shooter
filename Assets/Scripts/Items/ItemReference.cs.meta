@@ -1,0 +1,37 @@
+fileFormatVersion: 2
+guid: 6b2c5bdffc50acae3b2b20bf68de9507
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - MoneyMagnetItem: {fileID: 5570488055221626926, guid: 48c11cc7fb45cbcb894e2480e86cb26c,
+      type: 3}
+  - SeeEnemiesItem: {fileID: 3137873163925642054, guid: d10422ecfdf20ae6d89f1bfe6d7bccc6,
+      type: 3}
+  - SeeMoneyItem: {fileID: 5876147782385618738, guid: acac7cb625286e30e93f58dd7116658e,
+      type: 3}
+  - BouncyBulletItem: {fileID: 6395861643896925548, guid: 7116210e1e745b587bee31e5f162fd8c,
+      type: 3}
+  - HealthItem: {fileID: 5228080569823667934, guid: 8893e124c62a9fa99a85086dc9adf844,
+      type: 3}
+  - SingleShotItem: {fileID: 4232241849917291038, guid: daf0c310e2e8aa0f796393b77948a371,
+      type: 3}
+  - SpreadShotItem: {fileID: 3880548317234663091, guid: dd880137afa6e66c9a761fab9f2aa8a9,
+      type: 3}
+  - UziItem: {fileID: 7066866082471707087, guid: ce646aa5f5da0053c87f93b948b794ac,
+      type: 3}
+  - BurstRifleItem: {fileID: 7759333353653936186, guid: b97b9c569a3b60724ab9d8d67507f096,
+      type: 3}
+  - BazookaItem: {fileID: 8968473995460747890, guid: fe66abe0faa96338bb13ecd6480d2a8f,
+      type: 3}
+  - BoomerangItem: {fileID: 2725877305633030473, guid: b3d366b92f2ff997f80f410de992c333,
+      type: 3}
+  - MineItem: {fileID: 7992849695220843410, guid: e28797e5b56394cdeb2d92e2013d1a7e,
+      type: 3}
+  - CoinItem: {fileID: 5864063668598750228, guid: b5ec7986f61a04649923f9221509f79b,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
